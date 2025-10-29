@@ -9,10 +9,18 @@
   font-weight: normal;
   font-style: normal;
 }
+/* @font-face {
+  font-family: Amsterdam;
+  src: url("../fonts/MJ-Amsterdam.otf");
+} */
 @font-face {
   font-family: Amsterdam;
-  src: url("../fonts/AmsterdamOne.ttf");
+  src: url("../fonts/NVN-Motherland-Signature.ttf");
 }
+/* @font-face {
+  font-family: Amsterdam;
+  src: url("../fonts/AmsterdamOne.ttf");
+} */
 /* =======================================================
 *
 * 	Template Style 
@@ -897,6 +905,7 @@ form label {
 .fh5co-cover .display-tc h1 {
   margin-bottom: 0px;
   font-size: 65px;
+  font-weight: bold;
   line-height: 1.5;
   font-family: "Amsterdam", Arial, serif;
 }

@@ -1950,8 +1950,8 @@ img {
   line-height: 2; */
   font-weight: bold;
   color: #646464;
-  font-family: "Work Sans", Arial, sans-serif !important;
-  /* font-family: "Amsterdam", Arial, serif !important; */
+  /* font-family: "Work Sans", Arial, sans-serif !important; */
+  font-family: "Amsterdam", Arial, serif !important;
 }
 
 /* Thank you */
